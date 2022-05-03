@@ -1,0 +1,17 @@
+#titulo {font-family:"courier";
+          font-size:300%;
+          text-align: center;
+          color:#A5D6A7;
+        text-decoration: underline;
+        background-image: url(https://ornamentalis.com/wp-content/uploads/2021/09/significado-flor-cerezo-sakura-japon-750x422.jpg);
+
+        background-position: top;
+        height: 100px;
+        margin: 0;
+        background-repeat: no-repeat;}
+
+.todo {font-family:"courier";
+background-color: #FCE4EC;
+text-align: center;}
+.subtitulos {background-color: lightpink;
+text-decoration: underline;}
