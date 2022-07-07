@@ -1,17 +1,64 @@
-#titulo {font-family:"courier";
-          font-size:300%;
-          text-align: center;
-          color:#A5D6A7;
-        text-decoration: underline;
-        background-image: url(https://ornamentalis.com/wp-content/uploads/2021/09/significado-flor-cerezo-sakura-japon-750x422.jpg);
 
-        background-position: top;
-        height: 100px;
-        margin: 0;
-        background-repeat: no-repeat;}
+.titulo {background-image: url(https://img.freepik.com/foto-gratis/textura-marmol-negro-fondo_42682-371.jpg);display: flex; justify-content: center;font-size: 120px ;color:White; margin:0%;}
+.fotodango {float: right;;}
+body{background-image: url(https://i.pinimg.com/736x/98/51/dd/9851ddac85546ef78e51fb2580485a75.jpg);
+background-attachment: fixed;
+font-family:"courier";
+}
+nav {background-color: Grey;
+  margin: 0%;
+  text-align: center;
+    padding: 5px;
+    box-sizing: border-box;
 
-.todo {font-family:"courier";
-background-color: #FCE4EC;
-text-align: center;}
+}
+section {width: 78%;
+        float: left;
+        margin: 1%;
+        padding: 10px;
+        box-sizing: border-box;
+        height: 300px;
+        overflow: auto;}
+
+aside {background-color: RosyBrown;
+        border: 5px solid DarkRed;
+        width: 18%;
+        float: left;
+        margin: 1%;
+        padding: 10px;
+        box-sizing: border-box;
+        height: 300px;
+        overflow: auto;}
+.botonWhats {
+
+  position: fixed;
+  width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    z-index:100;}
+  .iconowhats{margin-top:15px;}
+  .iconosredes{
+    width:60px;
+      height:60px;
+      background-color:LightBlue;
+      color:LightBlue;
+      border-radius:50px;
+      text-align:center;
+      font-size:30px;
+      z-index:100;
+  }
+
+
+
 .subtitulos {background-color: lightpink;
-text-decoration: underline;}
+text-decoration: underline;
+text-align: center;}
+.subtituloingr {text-decoration: underline;
+text-decoration-color: DarkRed;
+text-align: center;}
